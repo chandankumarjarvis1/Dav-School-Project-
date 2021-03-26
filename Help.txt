@@ -1,0 +1,77 @@
+<div Class="aboutu" style="font-size:24;font-family:Times">
+<h3 Class="cent"> About us. </h3>
+
+<p style="font-size:15;font-family:arial; margin:-20px 10px">
+Our school's mission is to learn leadership, the common core, and relationships for life. Our mission is to provide a safe, disciplined learning environment that empowers all students to develop their full potential. We feel strongly about helping to build leaders that have the ability to succeed in whatever endeavor they undertake. Winning is not always the measure of success. Our students understand the "Win, win" philosophy and use it in their daily life. Common standards keeps us focused on learning appropriate content and preparing our students to graduate. Last but just as importantly, setting examples for our students of meaningful and lasting relationships will go with them throughout their lifetime.
+<br>
+Berry Elementary School is a PreK-6 Title I school in Fayette County. It is located in rural Berry, Alabama, a small town situated 20 miles from the county seat. Students come from several small communities which are similar in economic status and diversity while most live in the outlying areas in the county. Our student population is made of 87% Caucasian, 6% African American, 6% Multi-race, and 1% Hispanic. 64% of BES students are eligible for free or reduced lunches. The Special Education students, which are 12% of our population, are served by two resource teachers and three paraprofessionals. One hundred percent of the teachers hold a bachelor's degree and 57% have a masters level or a specialty degree. Difficult economic times have hit the area resulting in buy-out and closing of a local mine. Over the past three years, enrollment has dropped by 3%.
+<br>
+While adopting our own unique mission stated in the introduction, we embrace the district mission of providing a safe, disciplined learning environment that empowers all students to develop their full potential. We strongly agree with and uphold the district's belief statement: "In a consistently safe and healthy environment, all students can become responsible, respectful, and resourceful. We believe students learn best when actively engaged in the learning process. Education is a collaborative partnership involving school, family, and community." At Berry Elementary School, we strive to build lasting relationships among students and staff that encourage open discussion and provide activities that develop our students' strengths.
+<br>
+Thank you Students.
+</p>
+</div>
+
+
+
+
+
+
+<div style="height:500px; margin:750px 12px">
+<marquee scrollamount="90" onmouseover="this.stop()" onmouseout="this.start()">
+<img src="wide.png" style="height:500px">
+<img src="cute.jpg" style="height:500px">
+<img src="ask.jpg" style="height:500px">
+<img src="teacher.jpg" style="height:500px">
+<img src="love.jpg" style="height:500px">
+</marquee>
+</div>
+
+
+
+<div style="background-color:pink;height:100px;width:1000px; margin:00px 200px;"> 
+<h2 class="cent" style="margin:-2px 0px; padding:4px;color:Brown"> 
+<marquee scrollamount="20"; onmouseover="this.stop()"; onmouseout="this.start()";>
+Admission Open..!<br>
+</marquee>
+DAV School (Danapur, Near Jagat Narayan collage, Patna, Bihar, 801105)
+<br> 
+</h2>
+<h5 style="color:brown;text-align:center">Copyright © 2021 D.A.V. PUBLIC SCHOOL, BSEB PATNA. All Rights Reserved.
+</h5>
+</div>
+
+
+
+<!-- 
+<div style="margin:450px 180px; font-family:22px">
+<label> Name </label> <br>
+<input type="text" /> <br>
+<label> Contact no. </label> <br>
+<input type="text" /> <br>
+<label> Email </label> <br>
+<input type="email" /> <br>
+<label>Sex - Male</label>
+<input type="checkbox" />
+<label> Female </label>
+<input type="checkbox" /> <br>
+<label> Date &nbsp</label>
+<input type="date" /> <br>
+<label> Previous School Name </label> <br>
+<input type="text" /> <br>
+<lable> Address </label> <br>
+<input type="text"/> <br>
+<lable> State </label> <br>
+<input type="text"/> <br>
+<lable> Country </label> <br>
+<input type="text"/> <br>
+<lable> Pincode </label> <br>
+<input type="text"/> <br>
+<lable> Message </label> <br>
+<input type="text"/> <br>
+<br>
+<input type="Submit" />
+-->
+
+background-color: #a4508b;
+background-image: linear-gradient(326deg, #a4508b 0%, #5f0a87 74%);

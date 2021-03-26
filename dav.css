@@ -1,0 +1,177 @@
+.cent
+{
+text-align:center;
+}
+
+.logo
+{
+width:150px;
+height:150px;
+border:2px solid silver;
+}
+
+.imglogo
+{
+width:150px;
+height:150px;
+}
+
+ul li
+{
+font-family:Arial;
+font-size:20;
+float:left;
+margin:-3px 55px;
+padding:6px 0x 0px 0px;
+}
+ul li a:hover { background:silver; padding:8px; border-radius:10px 10px 10px 10px; }
+
+ul{list-style-type:none;}
+a{text-decoration:none;}
+
+.wide
+{
+width:1000px;
+height:450px;
+}
+
+.bord
+{
+border:2px solid silver
+}
+
+.sqr
+{
+width:300px;
+height:300px;
+border:2px solid silver;
+background-color:ascent;
+}
+.smar
+{
+margin:230px 200px;
+}
+
+.know
+{
+width:1000px;
+height:30px;
+border:2px solid grey;
+margin:-200px 200px;
+}
+
+
+
+.about
+{
+height:410px; 
+width:890px;
+border:2px solid silver;
+margin:-210px 10px;
+}
+
+.bottom{ 
+         position: absolute; 
+         bottom:-1700px; 
+        } 
+
+.aboutu
+{
+height:410px; 
+width:890px;
+border:2px solid silver;
+margin:310px 10px;
+}
+
+.box
+{
+width:250px;
+height:250px;
+border:2px solid grey;
+}
+
+.gal
+{
+width:250px;
+height:250px;
+} 
+
+.tex
+{
+text-align:left;
+font-size:18;
+font-family:arial;
+}
+
+.miss
+{
+width:650px;
+height:300px;
+border:2px solid grey;
+}
+
+.pop
+{
+font-family:Lucida Handwriting;
+text-align:left;
+padding:20px 20px 20px 20px;
+}
+
+.boxi
+{
+width:300px;
+height:300px;
+border:2px solid grey;
+}
+
+.knows
+{
+width:1005px;
+height:30px;
+border:2px solid grey;
+background-color:black;
+}
+
+.texn
+{
+list-style-type:none;
+font-size:18;
+font-family:arial;
+}
+
+.gap
+{
+margin:8px 50px;
+}
+
+.px
+{
+text-align:center;
+font-size:20;
+font-family:courier;
+}
+
+.pxx
+{
+font-size:18;
+font-family:arial;
+text-align:center;
+color:white;
+}
+
+.divx
+{
+width:600px;
+height:300px;
+border:2px solid grey;
+margin:-705px 600px;
+background-color:grey;
+}
+
+.conn
+{
+width:1000px;
+height:350px;
+border:2px solid grey;
+
+}
